@@ -30,10 +30,8 @@ To write a python program to implement multivariate linear regression and predic
 
 ```
 ## Output:
+![image](https://github.com/user-attachments/assets/5578196f-173d-4594-90ad-ab3d52e7eb72)
 
-### Insert your output
-
-<br>
 
 ## Result
 Thus the multivariate linear regression is implemented and predicted the output using python program.
